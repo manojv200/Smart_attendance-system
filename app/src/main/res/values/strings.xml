@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Smart Attendance App</string>
+
+
+    <string-array name="course">
+
+        <item>Course</item>
+        <item>BSc CS</item>
+        <item>BCA</item>
+        <item>BBA</item>
+        <item>B.Com</item>
+        <item>BSc EC</item>
+        <item>BA.Eng</item>
+        <item>MCA</item>
+
+
+    </string-array>
+    <string-array name="Bloodgroup">
+
+        <item>Blood Group</item>
+        <item>A+ve</item>
+        <item>B+ve</item>
+        <item>AB+ve</item>
+        <item>O+ve</item>
+        <item>A-ve</item>
+        <item>B-ve</item>
+        <item>O-ve</item>
+        <item>AB-ve</item>
+    </string-array>
+    <string-array name="form">
+
+    </string-array>
+
+
+    <string name="title_activity_signup">signup</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
